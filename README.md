@@ -8,20 +8,23 @@ SiSoftware Sandra Lite es una herramienta gratuita que te permite evaluar el ren
 [TechSpot](https://www.techspot.com/downloads/160-sisoftware-sandra-lite.html)
 1. Selecciona **Sandra Lite** (versión gratuita).
 2. Descarga el archivo.
-(captura1.png)
+[pagina para descargar](captura1.png)
 ### Instalación
 1. Abre el archivo descargado y sigue las instrucciones del asistente de instalación.
 2. Reinicia tu equipo si es necesario.
+[instalacion](captura2)
+## Uso básico
 
-## 🔄 2️⃣ Uso básico
-
-### 🏃 Ejecutar SiSoftware Sandra Lite
+### Ejecutar SiSoftware Sandra Lite
 - Abre el programa y accede a la pantalla principal.
-- Busca la opción **"Benchmarks"** o **"Pruebas de rendimiento"**.
+  [Esto se ve nada más abrir el programa](captura3.png)
+- Busca la opción **"Pruebas de rendimiento"**.
+  [Pruebas](captura4.png)
 
 ### 📊 Realizar una prueba básica
-1. Selecciona **"CPU Benchmark"** o **"Memoria RAM Benchmark"**.
+1. Selecciona la prueba que quieras realizar.
 2. Haz clic en **"Ejecutar prueba"** y espera a que finalice.
+[prueba](captura5.png)
 
 ### 🧐 Interpretar los resultados
 - **Velocidad de CPU**: Medida en GFLOPS o MIPS. Un número alto indica mejor rendimiento.
