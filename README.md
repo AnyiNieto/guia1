@@ -1,2 +1,2 @@
 # guia
-# 🖥️ SiSoftware Sandra Lite
+# 🖥️ [enlace](SiSoftware Sandra Lite)
