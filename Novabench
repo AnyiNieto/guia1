@@ -1,0 +1,28 @@
+# 🖥️ Novabench
+
+## 📌 Introducción
+Novabench es un software gratuito que permite realizar pruebas de rendimiento en CPU, GPU, memoria y almacenamiento de tu PC.
+
+## Descargar e instalar
+
+### 🌐 Acceder a la página oficial
+- Visita la [página oficial de Novabench](https://novabench.com/) para obtener la versión más reciente.
+[Página web](novabench.png)
+1. Selecciona la versión adecuada para tu sistema operativo.
+2. Descarga el archivo y guárdalo en tu computadora.
+3. Abre el archivo descargado y sigue las instrucciones del asistente de instalación.
+4. Inicia Novabench una vez completada la instalación.
+
+## Uso básico
+
+### 🏃 Ejecutar Novabench
+- Abre el programa y accede a la pantalla principal.
+[Menu principal](novabench2.png)
+- Haz clic en **"Start Benchmark Tests"** para comenzar la prueba.
+[Prueba](novabench3.png)
+### 📊 Interpretar los resultados
+1. **CPU Score**: Indica el rendimiento del procesador en cálculos.
+2. **GPU Score**: Evalúa la capacidad gráfica de tu tarjeta de video.
+3. **RAM Speed**: Muestra la velocidad de transferencia de datos de la memoria.
+4. **Disk Read/Write Speed**: Indica la velocidad de lectura y escritura del almacenamiento.
+[Resultado](novabench4.png)
