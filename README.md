@@ -8,7 +8,7 @@ SiSoftware Sandra Lite es una herramienta gratuita que te permite evaluar el ren
 [TechSpot](https://www.techspot.com/downloads/160-sisoftware-sandra-lite.html)
 1. Selecciona **Sandra Lite** (versión gratuita).
 2. Descarga el archivo.
-[pagina de instalacion](captura1.png)
+(captura1.png)
 ### Instalación
 1. Abre el archivo descargado y sigue las instrucciones del asistente de instalación.
 2. Reinicia tu equipo si es necesario.
