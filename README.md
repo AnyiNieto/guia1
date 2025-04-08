@@ -1,2 +1,2 @@
 # guia
-# 🖥️ [enlace](SiSoftware Sandra Lite)
+# 🖥️ [Sisoftware](https://github.com/AnyiNieto/guia1/blob/main/SiSoftware)
