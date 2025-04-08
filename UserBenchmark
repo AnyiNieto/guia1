@@ -1,0 +1,25 @@
+# 🖥️ UserBenchmark
+
+## 📌 Introducción
+UserBenchmark es un software gratuito que analiza el rendimiento de tu CPU, GPU, RAM y almacenamiento, comparando los resultados con otros usuarios.
+
+## Descargar e instalar
+### 🌐 Acceder a la página oficial
+- Visita la [página oficial de UserBenchmark](https://www.userbenchmark.com/Software) para obtener la versión más reciente.
+1. Haz clic en **"Download"** en la página principal.
+2. Guarda el archivo en tu computadora.
+3. Abre el archivo descargado y sigue las instrucciones del asistente de instalación.
+4. Inicia UserBenchmark una vez completada la instalación.
+
+## Uso básico
+
+### 🏃 Ejecutar UserBenchmark
+- Abre el programa y haz clic en **"Run"** para iniciar la prueba.
+- Espera a que el análisis se complete (toma menos de un minuto).
+
+### 📊 Interpretar los resultados
+1. **CPU Score**: Evalúa el rendimiento del procesador en cálculos.
+2. **GPU Score**: Mide la capacidad gráfica de tu tarjeta de video.
+3. **RAM Speed**: Indica la velocidad de transferencia de datos de la memoria.
+4. **Disk Read/Write Speed**: Muestra la velocidad de lectura y escritura del almacenamiento.
+5. **Comparación con otros sistemas**: UserBenchmark te muestra cómo se compara tu PC con otros similares.
